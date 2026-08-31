@@ -41,7 +41,7 @@ e conceitos introdutórios de Cibersegurança**.
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUST1-WQ&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUST1-WQ&show_icons=true&theme=tokyonight) 
 
 ---
 
